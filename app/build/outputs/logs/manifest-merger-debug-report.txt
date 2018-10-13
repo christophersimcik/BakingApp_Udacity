@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\75d0294201058271a6660c99ce9e7c12\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.4.2.aar\17daea913210ad63859927361c05fcf5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\b0d125640c26a51483bb318c2309d800\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\27a3678f0faa6b13a935dbe0bc098116\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\270c154fc786b4df3d44a5cd0bb59b5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\65a7daa41af0fcc1fcc267b50d12c65c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a575883ab7dde9b3529b9d5c28e545d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f6fa7dfda6337d7c271ac8f95bc18479\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fc1d46c2ee37996deae16dfc7fcf69ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a00d8ca433cab54d71ef4f28d4f08206\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\717177be314e8aedec0db4ff72151b86\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5d1d3e4fea150f50bbebe5be542c8c43\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2ded73b5e3491ab36119b6731d44cd23\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eef5dec1907c97d995ae6fc9e92742ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07d692752aca3350a57b039bc994614f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:7:5-39:19
+	android:supportsRtl
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:12:9-40
+receiver#com.example.csimcik.bakingapp.StackWidgetProvider
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:13:9-24:20
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:14:13-48
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:android.appwidget.action.RECIPE_ACTION+action:name:android.appwidget.action.TOAST_ACTION
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:16:25-81
+action#android.appwidget.action.RECIPE_ACTION
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:17:17-81
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:17:25-78
+action#android.appwidget.action.TOAST_ACTION
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:18:17-80
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:18:25-77
+meta-data#android.appwidget.provider
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:21:13-23:62
+	android:resource
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:23:17-59
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:22:17-58
+activity#com.example.csimcik.bakingapp.MainActivity
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.csimcik.bakingapp.Detail
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:32:19-41
+service#com.example.csimcik.bakingapp.StackWidgetService
+ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:33:9-36:40
+	android:exported
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:36:13-37
+	android:permission
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml:34:13-47
+uses-sdk
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\75d0294201058271a6660c99ce9e7c12\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\75d0294201058271a6660c99ce9e7c12\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.4.2.aar\17daea913210ad63859927361c05fcf5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.4.2.aar\17daea913210ad63859927361c05fcf5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\b0d125640c26a51483bb318c2309d800\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\b0d125640c26a51483bb318c2309d800\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\27a3678f0faa6b13a935dbe0bc098116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\27a3678f0faa6b13a935dbe0bc098116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\270c154fc786b4df3d44a5cd0bb59b5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\270c154fc786b4df3d44a5cd0bb59b5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\65a7daa41af0fcc1fcc267b50d12c65c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\65a7daa41af0fcc1fcc267b50d12c65c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a575883ab7dde9b3529b9d5c28e545d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a575883ab7dde9b3529b9d5c28e545d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f6fa7dfda6337d7c271ac8f95bc18479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f6fa7dfda6337d7c271ac8f95bc18479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fc1d46c2ee37996deae16dfc7fcf69ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fc1d46c2ee37996deae16dfc7fcf69ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a00d8ca433cab54d71ef4f28d4f08206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a00d8ca433cab54d71ef4f28d4f08206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\717177be314e8aedec0db4ff72151b86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\717177be314e8aedec0db4ff72151b86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5d1d3e4fea150f50bbebe5be542c8c43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5d1d3e4fea150f50bbebe5be542c8c43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2ded73b5e3491ab36119b6731d44cd23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2ded73b5e3491ab36119b6731d44cd23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eef5dec1907c97d995ae6fc9e92742ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eef5dec1907c97d995ae6fc9e92742ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07d692752aca3350a57b039bc994614f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\chris\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07d692752aca3350a57b039bc994614f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chris\Desktop\BakingApp\app\src\main\AndroidManifest.xml
